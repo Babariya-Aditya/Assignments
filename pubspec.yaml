@@ -41,6 +41,12 @@ dependencies:
   rating_dialog: ^2.0.4
   flutter_rating_bar: ^4.0.1
   slider_button: ^2.0.0
+  fluttertoast: ^8.2.2
+  url_launcher: ^6.1.11
+  sqflite: ^2.3.0
+  firebase_core: ^2.13.1
+  cloud_firestore: ^4.8.2
+  firebase_auth: ^4.6.3
 
 
 
